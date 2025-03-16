@@ -1,0 +1,7 @@
+A | Checksum: 65
+B | Checksum: 66
+C | Checksum: 67
+D | Checksum: 68
+E | Checksum: 69
+F | Checksum: 70
+10 | Checksum: 1
